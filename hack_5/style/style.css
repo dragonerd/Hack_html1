@@ -1,0 +1,373 @@
+@font-face 
+{
+    font-family:Arimo;
+    src: url("Arimo.ttf");
+}
+
+body{
+
+    background-image: url("../img/2.png");
+    background-repeat: no-repeat;
+    background-position: 2px 360%;
+    background-size: 100%;
+}
+
+
+.textmain1
+{   
+    position: relative;
+    top: 530px;
+    left: 36px;
+    color: white;
+    font-family: Arimo;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: #00BF63;
+    width: 674px;
+}
+
+.textmain12
+{   
+  position: relative;
+  top: 541px;
+  left: 59px;
+  color: white;
+  font-family: Arimo;
+  font-size: 80px;
+  font-weight: bold;
+  background-color: #00BF63;
+  width: 1141px;
+}
+
+.textmain123
+{   
+    position: relative;
+    top: 553px;
+    left: 59px;
+    color: white;
+    font-family: Arimo;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: #00BF63;
+    width: 1140px;
+}
+
+.one{
+    position: relative;
+    top: -160px;
+}
+
+.two{
+
+    position: relative;
+    top: -230px;
+}
+
+.imgbase
+{
+    position: relative;
+    top: -450px;
+}
+
+.infogeneral
+{
+    position: relative;
+    top: -400px;
+}
+.textmain2
+{
+    position: relative;
+  top: 677px;
+  left: 59px;
+  color: white;
+  font-family: Arimo;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #000;
+  width: 1102px;
+}
+
+.textmain22
+{
+    position: relative;
+  top: 683px;
+  left: 80px;
+  color: white;
+  font-family: Arimo;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #000;
+  width: 557px;
+}
+
+.img1
+{
+    width: 1550px;
+    height: 1450px;
+    margin: 1%;
+    position: relative;
+    top: -393px;
+}
+
+
+.MainMsg1
+{
+    line-height: 10px;
+    width: 10px;
+    height: 10px;
+    float: left;
+    position: relative;
+    top: -1114px;
+    left: 71px;
+    background-color: #00BF63;
+    letter-spacing: 10px;
+    padding: 10px;
+    font-size: 60px;
+    text-indent: 50px;
+    margin: 10px;
+  }
+
+.mainmsg2
+{
+    background-color: #00BF63;
+
+}
+
+
+li::marker {
+    color: rgb(30, 255, 0);
+    font-size: 50px;
+  }
+
+li{
+    font-family: Arimo;
+  font-size: 50px;
+  position: relative;
+  left: 178px;
+  top: 52px;
+}
+
+.text2
+{
+    text-align: right;
+    float: right;
+    position: relative;
+    right: 175px;
+    top: -4px;
+    font-size: 34px;
+    font-family: Arimo;
+  }
+
+  .text3
+{
+    text-align: left;
+    float: left;
+    position: relative;
+    right: -59px;
+    top: 1006px;
+    font-size: 72px;
+    font-family: Arimo;
+    color: black;
+    letter-spacing: 0px;
+  }
+
+  .text4
+  {
+    text-align: left;
+    float: left;
+    position: relative;
+    right: -61px;
+    top: 957px;
+    font-size: 34px;
+    font-family: Arimo;
+    color: black;
+    }
+  
+
+.clase4
+{
+    height: 90px;
+    background-color: #00BF63;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+    font-family:Arimo;
+    font-size:25px;
+    color:rgb(255, 255, 255);
+}
+
+
+.dir1
+{
+    position: relative;
+    right: 413px;
+    top: 21px;
+    font-size: 20px;
+  }
+
+.website
+{
+    position: relative;
+  right: -17px;
+  top: -2px;
+  font-size: 20px;
+}
+
+.number
+{
+    position: relative;
+  left: 405px;
+  top: -26px;
+  letter-spacing: 4px;
+  font-size: 20px;
+  }
+
+.imgleft
+{
+    float: left;
+    position: relative;
+    top: 1065px;
+    left: -985px;
+    width: 332px;
+    height: 472px;
+}
+
+.design2
+{
+    position: relative;
+    left: -15px;
+    top: 12px;
+    list-style: none;
+    background-image: url("../img/5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.imgcenter
+{
+    position: relative;
+    top: 604px;
+    left: 639px;
+    width: 318px;
+    height: 441px;
+}
+
+
+.imgright
+{
+    position: relative;
+    top: 581px;
+    right: -706px;
+    width: 353px;
+    height: 395px;
+  }
+
+.design
+{
+    position: relative;
+    top: 558px;
+    left: 222px;
+    color: black;
+    font-size: 34px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+
+.developing
+{
+    position: relative;
+    top: 503px;
+    left: 653px;
+    color: black;
+    font-size: 34px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+
+.developing2
+{
+    position: relative;
+    left: -15px;
+    top: 12px;
+    list-style: none;
+    background-image: url("../img/5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 10px;
+    width: 50px;
+    height: 50px;
+}
+.publish
+{
+    position: relative;
+    top: 444px;
+    left: 1062px;
+    color: black;
+    font-size: 34px;
+    font-family: Arimo;
+    font-weight: bold;
+}
+
+.publish2
+{
+    position: relative;
+    left: -15px;
+    top: 12px;
+    list-style: none;
+    background-image: url("../img/5.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: 10px;
+    width: 50px;
+    height: 50px;
+}
+
+.infoDesign
+{
+    position: relative;
+  top: 462px;
+  left: 210px;
+  color: black;
+  text-align: left;
+  font-size: 19px;
+  font-family: Arimo;
+  }
+
+.infoDeveloping
+{
+    position: relative;
+  top: 417px;
+  left: 641px;
+  color: black;
+  text-align: left;
+  font-size: 19px;
+  font-family: Arimo;
+}
+
+.infoPublish
+{
+    position: relative;
+    top: 374px;
+    left: 1051px;
+    color: black;
+    text-align: left;
+    font-size: 19px;
+    font-family: Arimo;
+  }
+
+.footerfix
+{
+    background-color: #00BF63;
+  position: relative;
+  top: 0px;
+  left: 189px;
+  width: 1207px;
+  height: 71px;
+  text-align: center;
+  font-family: Arimo;
+  color: white;
+}

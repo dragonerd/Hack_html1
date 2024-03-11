@@ -1,0 +1,43 @@
+:root{
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+
+body{
+    background-color: none;
+}
+
+.clase1{
+    height: 100px;
+    background-color: #93B5C9;
+    width: 100%;
+}
+
+.clase2{
+    height: 200px;
+    background-color: #AB2849;
+    width: 100%;
+}
+
+
+.clase3{
+    height: 50px;
+    background-color: #AB2849;
+    width: 70%;
+    padding: 20px;
+
+}
+
+.centro
+{
+    margin-left: 20%;
+}
+
+.clase4{
+    height: 90px;
+    background-color: #AB2849;
+    width: 80%;
+ margin: 0 auto;
+}

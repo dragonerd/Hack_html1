@@ -1,0 +1,153 @@
+:root{
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+@font-face 
+{
+    font-family:Ruda;
+    src: url("ruda.ttf");
+}
+
+@font-face 
+{
+    font-family:catamaran;
+    src: url("catamaran.ttf");
+}
+
+@font-face 
+{
+    font-family:opensans;
+    src: url("Opensans.ttf");
+}
+
+.main
+{
+    width: 90px ; 
+    border-width:2px;
+    color: black;
+}
+
+body{
+    background-color: none;
+}
+
+.clase1{
+    height: 10px;
+    text-align: center;
+    padding-top: 50px;
+   font-size: medium;
+   font-family: Ruda;
+   letter-spacing: 5px;
+   font-weight: bold;
+}
+
+
+.fontfix
+{
+    font-family: catamaran;
+}
+.clase2{
+    height: 200px;
+    width: 100%;
+    text-align: center;
+    font-family: Ruda;
+    font-size: 200px;
+    color:#B88940;
+    font-weight: 700;
+    letter-spacing: 5px;
+    padding-top: 26px;
+}
+
+.clase5{
+    height: 90px;
+    /*background-color: #AB2849;*/
+    width: 100%;
+    text-align: center;
+    font-family: Ruda;
+    font-size: 70px;
+    color:black;
+    font-weight: bold;
+    letter-spacing: 5px;
+    padding-top: 20px;
+}
+
+
+.clase3{
+    height: 1px;
+    background-color: #FFBD59;
+    width: 121%;
+    padding: 17px;
+    margin-left: -350px;
+
+}
+
+.centro
+{
+    margin-left: 32%;
+}
+
+.clase4{
+    height: 90px;
+    /*background-color: #AB2849;*/
+    width: 80%;
+ margin: 0 auto;
+ text-align: center;
+ /*background-color: #AB2849;*/
+ width: 100%;
+ font-family:opensans;
+ font-size: 90px;
+ color:#B88940;
+ letter-spacing: 5px;
+
+}
+
+h2
+{
+    height: 200px;
+    /*background-color: #93B5C9;*/
+    /*width: 100%;*/
+    text-align: center;
+   font-size: 30px;
+   font-family: Arial, sans-serif;
+   letter-spacing: 10px;
+}
+
+.footer2{
+    height: 10px;
+    /*background-color: #93B5C9;*/
+    /*width: 100%;*/
+    text-align: center;
+   font-size: 30px;
+   font-family: catamaran;
+   letter-spacing: 5px;
+   font-weight: bold;
+
+}
+
+.img1
+{
+    width: 190px;
+    height: 250px;
+    float: inline-start;
+    margin: 10px;
+}
+
+.imgfix
+{
+    padding-bottom: 50px;
+}
+
+.price
+{
+    float:left;
+    height: 20px;
+    /*background-color: #93B5C9;*/
+    /*width: 100%;*/
+   font-size: 18px;
+   font-family: catamaran;
+   letter-spacing: 6px;
+   font-weight: bold;
+margin-left: 31px;
+}

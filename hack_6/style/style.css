@@ -1,0 +1,169 @@
+@font-face 
+{
+    font-family:nuevaletra;
+    src: url("inter.ttf");
+}
+
+body
+{
+    background-image: url("../img/2.png");
+    background-repeat: no-repeat;
+    background-position:center -70%;
+    background-size: 60%;
+    
+}
+
+
+ .banner
+ {
+    border-radius: 299px;
+  width: 146px;
+  height: 32px;
+  background-color: black;
+  background-repeat: no-repeat;
+  background-attachment: local;
+  font-family: nuevaletra;
+  position: relative;
+  left: 388px;
+  top: 84px;
+  font-size: 22px;
+  color: white;
+  text-align: center;
+  padding-top: 7px;
+ }
+
+ .offer
+ {
+    float: right;
+    font-weight: bold;
+    font-size: 51px;
+    text-align: center;
+    margin: 6px;
+    padding-top: 45px;
+    font-family: nuevaletra;
+    border-radius: 233%;
+    background-color: #00BF63;
+    width: 212px;
+    height: 158px;
+    color: white;
+    position: relative;
+    left: -374px;
+    top: 77px;
+ }
+
+.priceold
+{
+  text-decoration: line-through;
+  text-decoration-color: red;
+}
+
+.price1
+{
+  font-weight: bold;
+    font-family: nuevaletra;
+    position: relative;
+    right: -369px;
+    top: 130px;
+}
+
+.price2
+{
+  font-weight: bold;
+  font-family: nuevaletra;
+    position: relative;
+  left: 736px;
+  top: 53px;
+}
+
+.price3
+{
+  font-weight: bold;
+  font-family: nuevaletra;
+    position: relative;
+  right: -1088px;
+  top: -16px;
+}
+
+.price4
+{
+  font-weight: bold;
+  font-family: nuevaletra;
+    position: relative;
+  right: -380px;
+  top: -16px;
+}
+
+.price5
+{
+  font-weight: bold;
+  font-family: nuevaletra;
+    position: relative;
+    right: -742px;
+    top: -83px;
+  }
+
+.section1
+{
+    font-family: nuevaletra;
+  position: relative;
+  left: 400px;
+  top: 137px;
+  font-weight: bold;
+  font-size: 34px;
+}
+
+.section2
+{
+    font-family: nuevaletra;
+  position: relative;
+  left: 400px;
+  top: 172px;
+  font-size: 20px;
+}
+
+
+.sheets
+{
+    position: relative;
+    top: 144px;
+    left: 241px;
+    width: 252px;
+    height: 334px;
+    padding: 52px;
+}
+
+.sheets2
+{
+    position: relative;
+    top:-41px;
+    left: 241px;
+    width: 252px;
+    height: 334px;
+    padding: 52px;
+}
+
+.bottomfooter{
+  position: relative;
+  left: 90px;
+  height: 142px;
+  width: 1302px;
+  background-color: black;
+  padding-left: 64px;
+  padding-top: 72px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+}
+
+.buttonshop{
+  background-color: #00BF63;
+  border-radius: 299px;
+  width: 216px;
+  height: 57px;
+  position: relative;
+  color: white;
+  left: 75px;
+  text-align: center;
+  padding-top: 21px;
+  font-family: nuevaletra;
+  font-size: 31px;
+}
